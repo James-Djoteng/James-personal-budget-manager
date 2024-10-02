@@ -2,7 +2,7 @@
   "name": "personal-budget-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://James-Djoteng.github.io/personal-budget-manager",
+  "homepage": "https://James-Djoteng.github.io/James-personal-budget-manager",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

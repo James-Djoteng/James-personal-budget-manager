@@ -21,7 +21,7 @@ Integrate Charting Library: Use a charting library like Chart.js to add visual e
 Add Budget Alerts: Implement alerts using conditional rendering based on budget thresholds.
 
 How to Run:
-Clone the repo: git clone https://github.com/James-Djoteng/personal-budget-manager.git
+Clone the repo: git clone https://github.com/James-Djoteng/James-personal-budget-manager.git
 
 Install dependencies: npm install
 
@@ -29,4 +29,4 @@ Run locally: npm start
 
 Deploy to GitHub Pages: npm run deploy
 
-Live Demo: https://James-Djoteng.github.io/personal-budget-manager/
+Live Demo: https://James-Djoteng.github.io/James-personal-budget-manager/
